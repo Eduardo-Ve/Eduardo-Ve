@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola, soy Eduardo! 👋
+### Desarrollador [Frontend / Backend / Full Stack]
 
-<!--
-**Eduardo-Ve/Eduardo-Ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y construir proyectos que resuelvan problemas reales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías y Herramientas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+###  Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ve&show_icons=true&theme=radical" alt="Estadísticas de Eduardo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ve&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### 🚀 Sobre mí
+
+- 🔭 **Actualmente trabajando en:** autoticket - Sistema de ML de categorización de tickets
+- 🌱 **Aprendiendo:** .NET
+- 💬 **Pregúntame sobre:** Ciencia de datos, Python
+- 📫 **Cómo contactarme:** contacto.eduardoa.v@gmail.com
+- ⚡ **Dato curioso:** Soy mas productivo con un buen te con cedrón

@@ -1,5 +1,6 @@
 # ¡Hola, soy Eduardo! 👋
-### Desarrollador [Frontend / Backend / Full Stack]
+### Desarrollador Backend
+### Ciencia de Datos
 
 Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y construir proyectos que resuelvan problemas reales.
 
@@ -18,7 +19,7 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 ###  Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ve&show_icons=true&theme=radical" alt="Estadísticas de Eduardo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ve&show_icons=true&theme=radical&rank_icon=github" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ve&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 

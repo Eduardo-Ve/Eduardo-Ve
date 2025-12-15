@@ -31,4 +31,3 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 - 🌱 **Aprendiendo:** .NET
 - 💬 **Pregúntame sobre:** Ciencia de datos, Python
 - 📫 **Cómo contactarme:** contacto.eduardoa.v@gmail.com
-- ⚡ **Dato curioso:** Soy mas productivo con un buen te con cedrón

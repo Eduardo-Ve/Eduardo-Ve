@@ -28,6 +28,6 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 ### 🚀 Sobre mí
 
 - 🔭 **Actualmente trabajando en:** autoticket - Sistema de ML de categorización de tickets
-- 🌱 **Aprendiendo:** .NET
+- 🌱 **Aprendiendo:** C#
 - 💬 **Pregúntame sobre:** Ciencia de datos, Python
 - 📫 **Cómo contactarme:** contacto.eduardoa.v@gmail.com

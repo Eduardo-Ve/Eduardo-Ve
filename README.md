@@ -1,10 +1,10 @@
 # ¡Hola, soy Eduardo! 👋
-### Desarrollador Backend
-### Ciencia de Datos
-
 Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y construir proyectos que resuelvan problemas reales.
 
 ---
+
+## Tengo conocimiento en: 
+
 ### Web & Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ###  Estadísticas de GitHub
@@ -44,6 +44,6 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 ### 🚀 Sobre mí
 
 - 🔭 **Actualmente trabajando en:** autoticket - Sistema de ML de categorización de tickets
-- 🌱 **Aprendiendo:** C#
+- 🌱 **Aprendiendo:** C# / .NET
 - 💬 **Pregúntame sobre:** Ciencia de datos, Python
 - 📫 **Cómo contactarme:** contacto.eduardoa.v@gmail.com

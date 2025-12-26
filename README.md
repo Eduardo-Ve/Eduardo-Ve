@@ -33,12 +33,8 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 
 ###  Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ve&show_icons=true&theme=radical&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ve&layout=compact&theme=radical" alt="Lenguajes más usados" />
-
-</div>
-
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Eduardo-VE&show_icons=true&theme=dracula&rank_icon=github)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eduardo-VE&layout=compact&theme=dracula)
 ---
 
 ### 🚀 Sobre mí
